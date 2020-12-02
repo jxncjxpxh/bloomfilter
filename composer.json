@@ -1,0 +1,16 @@
+{
+    "name": "jxncjxpxh/bloomfilter",
+    "description": "this is bloomfilter",
+    "authors": [
+        {
+            "name": "jackson",
+            "email": "jxncjxpxh@163.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "bloomfilter\\":"./src"
+        }
+    },
+    "require": {}
+}

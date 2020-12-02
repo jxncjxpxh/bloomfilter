@@ -1,5 +1,6 @@
 {
     "name": "jxncjxpxh/bloomfilter",
+    "type": "library",
     "description": "this is bloomfilter",
     "authors": [
         {
@@ -12,5 +13,6 @@
             "bloomfilter\\":"./src"
         }
     },
+    "minimum-stability": "dev",
     "require": {}
 }
